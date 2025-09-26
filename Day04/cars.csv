@@ -1,0 +1,32 @@
+brand,km_driven,fuel,owner,selling_price
+Maruti,145000,Diesel,First Owner,450000
+Skoda,120000,Diesel,Second Owner,370000
+Honda,100000,Petrol,Third Owner,158000
+Hyundai,127000,Diesel,First Owner,225000
+Maruti,120000,Petrol,First Owner,130000
+Hyundai,80000,Petrol,First Owner,500000
+Toyota,90000,Diesel,First Owner,620000
+Ford,110000,Petrol,Second Owner,200000
+Renault,75000,Diesel,First Owner,300000
+Tata,65000,Petrol,First Owner,280000
+Mahindra,140000,Diesel,Second Owner,350000
+BMW,60000,Petrol,First Owner,1200000
+Skoda,115000,Diesel,Third Owner,290000
+Honda,85000,Petrol,First Owner,450000
+Maruti,70000,CNG,First Owner,320000
+Hyundai,95000,Diesel,Second Owner,400000
+Toyota,105000,Diesel,First Owner,550000
+Ford,125000,Petrol,Third Owner,180000
+Renault,80000,Petrol,First Owner,310000
+Tata,150000,Diesel,Fourth & Above Owner,200000
+Mahindra,120000,Diesel,Second Owner,420000
+BMW,50000,Petrol,First Owner,1350000
+Maruti,130000,CNG,Second Owner,250000
+Skoda,90000,Diesel,First Owner,480000
+Honda,140000,Petrol,Third Owner,220000
+Hyundai,110000,Petrol,Second Owner,375000
+Toyota,125000,Diesel,First Owner,600000
+Ford,70000,Petrol,First Owner,410000
+Renault,135000,Diesel,Third Owner,270000
+Tata,85000,CNG,First Owner,295000
+...
